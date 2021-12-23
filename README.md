@@ -15,3 +15,6 @@
     password = "<Password>"
 ```
 - Run the ```main.py``` file
+
+# Example Graph
+![Figure](/graphs/Figure_1.png)
